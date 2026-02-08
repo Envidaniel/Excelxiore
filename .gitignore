@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build
+.next/
+out/
+
+# Env (secrets)
+.env
+.env.local
+.env.*.local
+
+# Logs & cache
+*.log
